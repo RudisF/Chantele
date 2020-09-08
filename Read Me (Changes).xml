@@ -5,12 +5,15 @@
 
 #Missing attribute
 		<manufacturer><![CDATA[CHANTAL THOMASS]]></manufacturer>
+		<price><![CDATA[105.00]]></price>
 
 Missing optional attribute
 		<short_description><![CDATA[Krūšturis Clash no Chantal Thomass. Mežģīņu detaļas. Mīksta bļodiņa izveidos komfortablu valkāšanas sajūtu un seksīgu izskatu.]]></short_description>
 		<base_image><![CDATA[http://monaok.com/image/cache/catalog/products/6643_0-600x766.JPG]]></base_image>
+
 Missing Image
 		<base_image><![CDATA[http://monaok.com/image/cache/catalog/products/6643_0-600x766.JPG]]></base_image>
+
 Updated
 		<short_description><![CDATA[UPDATED UPDATED UPDATED UPDATED UPDATED UPDATEDUPDATED]]></short_description>
 		<color><![CDATA[White]]></color>
